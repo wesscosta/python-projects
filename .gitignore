@@ -1,1 +1,22 @@
-controle-visitantes
+# my-basecamp
+Sistema-Transportta/
+Flask/
+
+#carford-flask-postgres-api
+carford-flask-postgres-api/.git
+carford-flask-postgres-api/.env
+carford-flask-postgres-api/data
+
+
+# controlevisitantes-django
+controlevisitantes-django/.git
+controlevisitantes-django/.env
+
+# tourism-django-rest
+tourism-django-rest/.git
+tourism-django-rest/.env
+
+# zssn-django-rest-postgres
+zssn-django-rest-postgres/.git
+zssn-django-rest-postgres/.env
+zssn-django-rest-postgres/data
